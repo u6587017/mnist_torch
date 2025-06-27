@@ -1,0 +1,8 @@
+torchvision
+torch
+pandas
+numpy
+matplotlib
+scikit-learn
+gradio
+opencv-python
